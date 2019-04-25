@@ -5,10 +5,11 @@ Simple script writing in powershell which get all installed software on your com
 ## Getting Started
 
 Run script:
-1. Clone script
-2. Run powershell
-3. Go to script location
-4. Command execution:
+1. Download release
+2. Extract files
+3. Run powershell
+4. Go to script location
+5. Command execution:
 
 ```
 .\InstalledSoftware.ps1
